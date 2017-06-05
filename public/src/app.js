@@ -6,7 +6,7 @@ class App extends Component {
   render() {
     return (
       <div>
-        <h1> Mongo + Expressjs + React + Nodejs </h1>
+        <h1> Mongo/Mongoose + Expressjs + React + Nodejs </h1>
         <Greetings />
       </div>
     )
